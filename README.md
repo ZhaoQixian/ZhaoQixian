@@ -23,7 +23,7 @@
 
 ### ❖ Tech Stack
 
-| Category | Technologies |
+| | |
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> |
 | **AI & Deep Learning** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/YOLO-0F172A?style=flat-square&logoColor=white" alt="YOLO" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/GNN-111827?style=flat-square&logoColor=white" alt="GNN" /> <img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square&logoColor=white" alt="NLP" /> <img src="https://img.shields.io/badge/Sentence--BERT-7C3AED?style=flat-square&logoColor=white" alt="Sentence-BERT" /> <img src="https://img.shields.io/badge/Fuzzy%20Matching-0B3D2E?style=flat-square&logoColor=white" alt="Fuzzy Matching" /> |
