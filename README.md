@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/NTU-DSAI%202027-183328?style=for-the-badge&labelColor=FAF6EF" alt="NTU DSAI 2027" />
   <img src="https://img.shields.io/badge/SPRING%202026-Paris%20Exchange-223731?style=for-the-badge&labelColor=FAF6EF" alt="Spring 2026 Paris exchange" />
-  <img src="https://img.shields.io/badge/CGPA-4.55%20%2F%205.00-CD704B?style=for-the-badge&labelColor=FAF6EF" alt="CGPA 4.40 out of 5.00" />
+  <img src="https://img.shields.io/badge/CGPA-4.55%20%2F%205.00-CD704B?style=for-the-badge&labelColor=FAF6EF" alt="CGPA 4.55 out of 5.00" />
   <img src="https://img.shields.io/badge/ASEE-Published%202025-EABC61?style=for-the-badge&labelColor=FAF6EF" alt="ASEE Published 2025" />
 </p>
 
@@ -16,6 +16,20 @@
 <div align="center">
 
 *Exploring temporal knowledge graphs, medical-imaging automation, and financial signals.*
+
+<br>
+
+### ❖ Featured Projects
+
+| Project | What it is |
+| :--- | :--- |
+| **[EatWellthy](https://github.com/ZhaoQixian/EatWellthy)** | AI-powered personalised meal planning & nutrition tracking web app (MERN stack) |
+| **[Transport Crisis Simulation](https://github.com/ZhaoQixian/CantCodeDenSleep)** | Interactive simulator of intermodal transport routes across Asian cities, with crisis stress-testing |
+| **[zhaoqixian.com](https://zhaoqixian.com)** | This portfolio's home — React 19 + TypeScript, Gemini-powered chat, interactive Go board |
+| **[RL & Logic Portfolio](https://github.com/ZhaoQixian/SC3000_AI)** | Deep Q-Network & Monte-Carlo agents solving CartPole-v1, plus Prolog logic reasoning |
+| **[News × WikiLeaks NLP](https://github.com/ZhaoQixian/News_Wikileaks_Cross_Analysis)** | Sentence-BERT dashboard cross-referencing news with WikiLeaks documents |
+
+<sub>🔒 FYP in progress: lifecycle-aware temporal knowledge-graph maintenance for financial news — private repo, happy to walk through it on request.</sub>
 
 <br>
 
@@ -41,4 +55,3 @@
 <sub>EN • 中文 • FR </sub>
 
 </div>
-
