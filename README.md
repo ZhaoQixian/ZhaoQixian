@@ -15,8 +15,6 @@
 
 <div align="center">
 
-*Exploring temporal knowledge graphs, medical-imaging automation, and financial signals.*
-
 <br>
 
 ### ❖ Tech Stack
